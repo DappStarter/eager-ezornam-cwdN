@@ -1,0 +1,15 @@
+{
+    "name": "The Bottom",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "The Bottom",
+        "/category/asset_value_tracking/core-token/symbol": "BOTT",
+        "/category/asset_value_tracking/core-token/decimals": "12",
+        "/category/asset_value_tracking/core-token/supply": "1000000000000",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible"
+    }
+}
